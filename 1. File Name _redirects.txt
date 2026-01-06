@@ -1,0 +1,2 @@
+1. File Name: _redirects
+2. /* /index.html 200
